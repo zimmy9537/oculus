@@ -203,7 +203,6 @@ void search(char pat[], char txt[], int q)
 	}
 }
 
-/* Driver code */
 int main()
 {
 	char txt[] = "GEEKS FOR GEEKS";
